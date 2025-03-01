@@ -1,2 +1,2 @@
 # Password-Generator
-A random secured password will be generater
+A random secured password will be generated
